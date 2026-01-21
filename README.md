@@ -2,7 +2,7 @@
 Application web pour la création et gestion de liste de tâches et de tâches.
 
 Projet réalisé dans un cadre universitaire.
-L’API utilisée est interne à l’université et n’est pas accessible publiquement.  
+L’API utilisée est interne à l’université et n’est pas accessible publiquement.
 Certaines requêtes ainsi que l’architecture générale ont été fournies et encadrées par l’enseignant.
 
 ## Fonctionnalités
@@ -35,11 +35,11 @@ Certaines requêtes ainsi que l’architecture générale ont été fournies et 
 ![Page d'accueil](screenshots/home.png)
 
 ### Gestion des tâches
-![Liste des listes](screenshots/TodosList.png)
+![Liste des listes](screenshots/TodoList.png)
 ![Liste des tâches](screenshots/TodosDetails.png)
 ![Suppression d'une tâche](screenshots/TodosDetails.png)
-![Modifier le nom d'une tâche](EditNom.png)
-![Cocher toutes les tâches](ToutCocher.png)
+![Modifier le nom d'une tâche](screenshots/EditNom.png)
+![Cocher toutes les tâches](screenshots/ToutCocher.png)
 
 ### Déconnexion
 ![Page de déconnexion](screenshots/SignOut.png)
