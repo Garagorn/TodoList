@@ -32,7 +32,7 @@ Certaines requêtes ainsi que l’architecture générale ont été fournies et 
 ![Inscription avec un mauvais login](screenshots/InscriptionWLogin.png)
 
 ### Accueil
-![Page d'accueil](screenshots/home.png)
+![Page d'accueil](screenshots/HomeScreen.png)
 
 ### Gestion des tâches
 ![Liste des listes](screenshots/TodoList.png)
